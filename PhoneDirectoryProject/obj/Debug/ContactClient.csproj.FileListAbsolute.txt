@@ -1,0 +1,14 @@
+C:\Users\Cameron Chen\Source\Repos\PhoneDirectoryProject\PhoneDirectoryProject\bin\Debug\PhoneDirectoryProject.exe.config
+C:\Users\Cameron Chen\Source\Repos\PhoneDirectoryProject\PhoneDirectoryProject\bin\Debug\PhoneDirectoryProject.exe
+C:\Users\Cameron Chen\Source\Repos\PhoneDirectoryProject\PhoneDirectoryProject\bin\Debug\PhoneDirectoryProject.pdb
+C:\Users\Cameron Chen\Source\Repos\PhoneDirectoryProject\PhoneDirectoryProject\bin\Debug\ContactLibrary.dll
+C:\Users\Cameron Chen\Source\Repos\PhoneDirectoryProject\PhoneDirectoryProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cameron Chen\Source\Repos\PhoneDirectoryProject\PhoneDirectoryProject\bin\Debug\NLog.dll
+C:\Users\Cameron Chen\Source\Repos\PhoneDirectoryProject\PhoneDirectoryProject\bin\Debug\ContactLibrary.pdb
+C:\Users\Cameron Chen\Source\Repos\PhoneDirectoryProject\PhoneDirectoryProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cameron Chen\Source\Repos\PhoneDirectoryProject\PhoneDirectoryProject\bin\Debug\NLog.xml
+C:\Users\Cameron Chen\Source\Repos\PhoneDirectoryProject\PhoneDirectoryProject\obj\Debug\ContactClient.csprojAssemblyReference.cache
+C:\Users\Cameron Chen\Source\Repos\PhoneDirectoryProject\PhoneDirectoryProject\obj\Debug\ContactClient.csproj.CoreCompileInputs.cache
+C:\Users\Cameron Chen\Source\Repos\PhoneDirectoryProject\PhoneDirectoryProject\obj\Debug\ContactClient.csproj.CopyComplete
+C:\Users\Cameron Chen\Source\Repos\PhoneDirectoryProject\PhoneDirectoryProject\obj\Debug\PhoneDirectoryProject.exe
+C:\Users\Cameron Chen\Source\Repos\PhoneDirectoryProject\PhoneDirectoryProject\obj\Debug\PhoneDirectoryProject.pdb

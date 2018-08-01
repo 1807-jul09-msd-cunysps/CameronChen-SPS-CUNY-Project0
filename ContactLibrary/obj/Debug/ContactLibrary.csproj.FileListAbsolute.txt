@@ -1,0 +1,10 @@
+C:\Users\Cameron Chen\Source\Repos\PhoneDirectoryProject\ContactLibrary\bin\Debug\ContactLibrary.dll
+C:\Users\Cameron Chen\Source\Repos\PhoneDirectoryProject\ContactLibrary\bin\Debug\ContactLibrary.pdb
+C:\Users\Cameron Chen\Source\Repos\PhoneDirectoryProject\ContactLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cameron Chen\Source\Repos\PhoneDirectoryProject\ContactLibrary\bin\Debug\NLog.dll
+C:\Users\Cameron Chen\Source\Repos\PhoneDirectoryProject\ContactLibrary\bin\Debug\NLog.xml
+C:\Users\Cameron Chen\Source\Repos\PhoneDirectoryProject\ContactLibrary\obj\Debug\ContactLibrary.csprojAssemblyReference.cache
+C:\Users\Cameron Chen\Source\Repos\PhoneDirectoryProject\ContactLibrary\obj\Debug\ContactLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Cameron Chen\Source\Repos\PhoneDirectoryProject\ContactLibrary\obj\Debug\ContactLibrary.csproj.CopyComplete
+C:\Users\Cameron Chen\Source\Repos\PhoneDirectoryProject\ContactLibrary\obj\Debug\ContactLibrary.dll
+C:\Users\Cameron Chen\Source\Repos\PhoneDirectoryProject\ContactLibrary\obj\Debug\ContactLibrary.pdb
